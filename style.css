@@ -27,7 +27,7 @@ nav ul li a { color: #fff; text-decoration: none; font-weight: 700; font-size: 0
 /* Hero - هنا وضعنا صورتك الجديدة */
 .hero { 
     height: 100vh; 
-    background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.9)), url('https://i.ibb.co/3mN9f3R/kanini-food.jpg') center/contain no-repeat; 
+    background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.9)), url('كانيني فوود.jpg') center/contain no-repeat; 
     background-color: #000;
     display: flex; 
     align-items: center; 
@@ -73,3 +73,4 @@ nav ul li a { color: #fff; text-decoration: none; font-weight: 700; font-size: 0
     .hero h1 { font-size: 3.5rem; }
     .phone-num { font-size: 2.2rem; }
 }
+
